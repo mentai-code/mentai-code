@@ -1,6 +1,6 @@
 # GitHubの仕組み
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4474179-3d6a-4980-94ff-b78ba6b25d53/Untitled.png)
+![image](https://user-images.githubusercontent.com/82911032/139564271-b4333a2f-493f-4157-915f-e0b0d2d215cc.png)
 
 `Repository`
 
