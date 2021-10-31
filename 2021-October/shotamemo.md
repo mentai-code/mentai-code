@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/82911032/139564271-b4333a2f-493f-4157-915f-e0b0d2d215cc.png)
 
+出典：https://qiita.com/b150005/items/508009234bf9813b230f
+
 `Repository`
 
 ファイルやディレクトリの保管場所
